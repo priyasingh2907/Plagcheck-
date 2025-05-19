@@ -5,7 +5,7 @@ Plagcheck- is a plagiarism detection tool designed to help educators, students, 
 ## Features
 
 - **Document and Code Plagiarism Detection**: Supports checking for plagiarism in both text documents and code files.
-- **Multiple File Formats**: Accepts a range of file types such as `.txt`, `.docx`, `.pdf`, and popular code formats.
+- **Multiple File Formats**: Accepts a range of file types such as `.txt`, `.docx` and popular code formats.
 - **Detailed Reports**: Generates comprehensive reports highlighting matched content and providing similarity scores.
 - **Customizable Database**: Allows users to add custom sources or reference materials for comparison.
 - **Easy-to-Use Interface**: Simple upload and analysis workflow for quick results.
